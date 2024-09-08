@@ -1,15 +1,11 @@
 # Python-Fundamentals-for-Bioinformatics
 
 ## Learning Outcomes
-    • Core Python Programming: Automate workflows and address bioinformatics challenges using Python’s control structures, functions, and data structures effectively.
-    • Handling Biological Data:
-        ◦ FASTA: Analyze nucleotide and protein sequences, including computing composition, generating complements, transcription, translation, ORFs, motifs, and performing pairwise alignments.
-        ◦ FASTQ: Assess read quality scores, visualize data with box plots and GC content plots.
-        ◦ GenBank: Extract and analyze gene annotations and sequence features from GenBank files.
-        ◦ PDB: Visualize protein secondary structures.
-        ◦ GFF/GTF: Parse and analyze genomic features using Pandas.
-        ◦ Phylogenetic Trees: Construct and visualize trees from Newick and CLUSTAL formats.
-        ◦ Count Tables: Conduct differential expression analysis and generate volcano plots and heatmaps.
-    • Data Analysis and Visualization: Utilize NumPy, Pandas, Matplotlib, and Seaborn for comprehensive data analysis and visualization, including differential gene expression studies.
-    • Automating Workflows: Retrieve and manage data from online databases (NCBI, Ensembl), and automate bioinformatics tasks such as quality control and data trimming using command-line tools like BLAST, FastQC, and Trimmomatic.
-    • Project Application: Design and implement a bioinformatics project, analyze results, and present findings, showcasing practical Python skills and their application to real-world bioinformatics problems.
+    • Understand basic Python syntax, control structures, and functions.
+    • Grasp core bioinformatics concepts and data formats (FASTA, FASTQ, GenBank, PDB, GFF/GTF, Newick, Clustal, Count Tables).
+    • Apply Biopython for sequence manipulation and biological data analysis.
+    • Use NumPy and Pandas to handle and analyze bioinformatics datasets.
+    • Visualize biological data using Matplotlib and Seaborn.
+    • Perform differential gene expression analysis and basic sequence analysis.
+    • Automate bioinformatics tasks, including data retrieval from NCBI/Ensembl and running tools like BLAST, FastQC, and Trimmomatic.
+    • Complete a real-world bioinformatics project, applying Python skills and collaborating in a team.
