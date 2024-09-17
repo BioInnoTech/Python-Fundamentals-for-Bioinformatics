@@ -9,3 +9,5 @@
     • Perform differential gene expression analysis and basic sequence analysis.
     • Automate bioinformatics tasks, including data retrieval from NCBI/Ensembl and running tools like BLAST, FastQC, and Trimmomatic.
     • Complete a real-world bioinformatics project, applying Python skills and collaborating in a team.
+
+## To register for the course: [Google Form Link](https://forms.gle/UXxBQmDANquXygZM9)
